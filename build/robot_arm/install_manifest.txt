@@ -1,0 +1,15 @@
+/home/laksri/Robot-arm/install/robot_arm/share/ament_index/resource_index/package_run_dependencies/robot_arm
+/home/laksri/Robot-arm/install/robot_arm/share/ament_index/resource_index/parent_prefix_path/robot_arm
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/environment/ament_prefix_path.sh
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/environment/ament_prefix_path.dsv
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/environment/path.sh
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/environment/path.dsv
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/local_setup.bash
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/local_setup.sh
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/local_setup.zsh
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/local_setup.dsv
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/package.dsv
+/home/laksri/Robot-arm/install/robot_arm/share/ament_index/resource_index/packages/robot_arm
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/cmake/robot_armConfig.cmake
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/cmake/robot_armConfig-version.cmake
+/home/laksri/Robot-arm/install/robot_arm/share/robot_arm/package.xml
